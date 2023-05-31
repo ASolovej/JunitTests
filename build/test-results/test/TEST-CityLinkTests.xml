@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CityLinkTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-30T20:27:03" hostname="USER-PC" time="79.543">
+  <properties/>
+  <testcase name="РџРѕРёСЃРє С‚РѕРІР°СЂР° РїРѕ С„РёР»СЊС‚СЂСѓ Xiaomi" classname="CityLinkTests" time="20.505"/>
+  <testcase name="РџРѕРёСЃРє С‚РѕРІР°СЂР° РїРѕ С„РёР»СЊС‚СЂСѓ Huawei" classname="CityLinkTests" time="45.424"/>
+  <testcase name="РџРѕРёСЃРє С‚РѕРІР°СЂР° РїРѕ С„РёР»СЊС‚СЂСѓ Samsung" classname="CityLinkTests" time="13.609"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912}) on port 39628
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>
